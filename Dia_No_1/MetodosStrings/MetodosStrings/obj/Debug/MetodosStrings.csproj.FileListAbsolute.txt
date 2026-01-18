@@ -1,0 +1,7 @@
+M:\UDEMY\C#\MetodosStrings\MetodosStrings\bin\Debug\MetodosStrings.exe.config
+M:\UDEMY\C#\MetodosStrings\MetodosStrings\bin\Debug\MetodosStrings.exe
+M:\UDEMY\C#\MetodosStrings\MetodosStrings\bin\Debug\MetodosStrings.pdb
+M:\UDEMY\C#\MetodosStrings\MetodosStrings\obj\Debug\MetodosStrings.csproj.AssemblyReference.cache
+M:\UDEMY\C#\MetodosStrings\MetodosStrings\obj\Debug\MetodosStrings.csproj.CoreCompileInputs.cache
+M:\UDEMY\C#\MetodosStrings\MetodosStrings\obj\Debug\MetodosStrings.exe
+M:\UDEMY\C#\MetodosStrings\MetodosStrings\obj\Debug\MetodosStrings.pdb

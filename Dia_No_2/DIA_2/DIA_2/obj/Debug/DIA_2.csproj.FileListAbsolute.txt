@@ -1,0 +1,8 @@
+M:\UDEMY\C#\DIA_2\DIA_2\bin\Debug\DIA_2.exe.config
+M:\UDEMY\C#\DIA_2\DIA_2\bin\Debug\DIA_2.exe
+M:\UDEMY\C#\DIA_2\DIA_2\bin\Debug\DIA_2.pdb
+M:\UDEMY\C#\DIA_2\DIA_2\obj\Debug\DIA_2.csproj.AssemblyReference.cache
+M:\UDEMY\C#\DIA_2\DIA_2\obj\Debug\DIA_2.csproj.CoreCompileInputs.cache
+M:\UDEMY\C#\DIA_2\DIA_2\obj\Debug\DIA_2.exe
+M:\UDEMY\C#\DIA_2\DIA_2\obj\Debug\DIA_2.pdb
+M:\UDEMY\C#\DIA_2\DIA_2\obj\Debug\DIA_2.exe.config

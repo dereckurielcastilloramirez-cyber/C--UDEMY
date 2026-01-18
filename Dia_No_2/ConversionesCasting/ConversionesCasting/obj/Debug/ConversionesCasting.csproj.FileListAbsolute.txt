@@ -1,0 +1,8 @@
+M:\UDEMY\C#\ConversionesCasting\ConversionesCasting\bin\Debug\ConversionesCasting.exe.config
+M:\UDEMY\C#\ConversionesCasting\ConversionesCasting\bin\Debug\ConversionesCasting.exe
+M:\UDEMY\C#\ConversionesCasting\ConversionesCasting\bin\Debug\ConversionesCasting.pdb
+M:\UDEMY\C#\ConversionesCasting\ConversionesCasting\obj\Debug\ConversionesCasting.csproj.AssemblyReference.cache
+M:\UDEMY\C#\ConversionesCasting\ConversionesCasting\obj\Debug\ConversionesCasting.csproj.CoreCompileInputs.cache
+M:\UDEMY\C#\ConversionesCasting\ConversionesCasting\obj\Debug\ConversionesCasting.exe
+M:\UDEMY\C#\ConversionesCasting\ConversionesCasting\obj\Debug\ConversionesCasting.pdb
+M:\UDEMY\C#\ConversionesCasting\ConversionesCasting\obj\Debug\ConversionesCasting.exe.config

@@ -1,0 +1,7 @@
+A:\CURSOS\C#\Metodos\Metodos\bin\Debug\Metodos.exe.config
+A:\CURSOS\C#\Metodos\Metodos\bin\Debug\Metodos.exe
+A:\CURSOS\C#\Metodos\Metodos\bin\Debug\Metodos.pdb
+A:\CURSOS\C#\Metodos\Metodos\obj\Debug\Metodos.csproj.AssemblyReference.cache
+A:\CURSOS\C#\Metodos\Metodos\obj\Debug\Metodos.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#\Metodos\Metodos\obj\Debug\Metodos.exe
+A:\CURSOS\C#\Metodos\Metodos\obj\Debug\Metodos.pdb

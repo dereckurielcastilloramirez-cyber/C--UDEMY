@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\CURSOS\\C#\\Dia_No_2\\DIA2_I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED673A1B-B833-492D-AECF-3825940F4DDD}|DIA2_I\\DIA2_I.csproj|m:\\cursos\\c#\\dia_no_2\\dia2_i\\dia2_i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED673A1B-B833-492D-AECF-3825940F4DDD}|DIA2_I\\DIA2_I.csproj|solutionrelative:dia2_i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\CURSOS\\C#\\Dia_No_2\\DIA2_I\\DIA2_I\\Program.cs",
+              "RelativeDocumentMoniker": "DIA2_I\\Program.cs",
+              "ToolTip": "M:\\CURSOS\\C#\\Dia_No_2\\DIA2_I\\DIA2_I\\Program.cs",
+              "RelativeToolTip": "DIA2_I\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:32:45.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

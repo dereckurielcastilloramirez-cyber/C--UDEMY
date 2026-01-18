@@ -1,0 +1,8 @@
+M:\UDEMY\C#\Proyecto3\Proyecto3\bin\Debug\Proyecto3.exe.config
+M:\UDEMY\C#\Proyecto3\Proyecto3\bin\Debug\Proyecto3.exe
+M:\UDEMY\C#\Proyecto3\Proyecto3\bin\Debug\Proyecto3.pdb
+M:\UDEMY\C#\Proyecto3\Proyecto3\obj\Debug\Proyecto3.csproj.AssemblyReference.cache
+M:\UDEMY\C#\Proyecto3\Proyecto3\obj\Debug\Proyecto3.csproj.CoreCompileInputs.cache
+M:\UDEMY\C#\Proyecto3\Proyecto3\obj\Debug\Proyecto3.exe
+M:\UDEMY\C#\Proyecto3\Proyecto3\obj\Debug\Proyecto3.pdb
+M:\UDEMY\C#\Proyecto3\Proyecto3\obj\Debug\Proyecto3.exe.config

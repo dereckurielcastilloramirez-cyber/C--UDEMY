@@ -1,0 +1,7 @@
+A:\CURSOS\C#\Ingreso_de_Usuario\Ingreso_de_Usuario\bin\Debug\Ingreso_de_Usuario.exe.config
+A:\CURSOS\C#\Ingreso_de_Usuario\Ingreso_de_Usuario\bin\Debug\Ingreso_de_Usuario.exe
+A:\CURSOS\C#\Ingreso_de_Usuario\Ingreso_de_Usuario\bin\Debug\Ingreso_de_Usuario.pdb
+A:\CURSOS\C#\Ingreso_de_Usuario\Ingreso_de_Usuario\obj\Debug\Ingreso_de_Usuario.csproj.AssemblyReference.cache
+A:\CURSOS\C#\Ingreso_de_Usuario\Ingreso_de_Usuario\obj\Debug\Ingreso_de_Usuario.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#\Ingreso_de_Usuario\Ingreso_de_Usuario\obj\Debug\Ingreso_de_Usuario.exe
+A:\CURSOS\C#\Ingreso_de_Usuario\Ingreso_de_Usuario\obj\Debug\Ingreso_de_Usuario.pdb

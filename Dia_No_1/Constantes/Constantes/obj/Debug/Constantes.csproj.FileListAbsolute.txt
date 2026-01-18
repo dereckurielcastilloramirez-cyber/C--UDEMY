@@ -1,0 +1,7 @@
+M:\UDEMY\C#\Constantes\Constantes\bin\Debug\Constantes.exe.config
+M:\UDEMY\C#\Constantes\Constantes\bin\Debug\Constantes.exe
+M:\UDEMY\C#\Constantes\Constantes\bin\Debug\Constantes.pdb
+M:\UDEMY\C#\Constantes\Constantes\obj\Debug\Constantes.csproj.AssemblyReference.cache
+M:\UDEMY\C#\Constantes\Constantes\obj\Debug\Constantes.csproj.CoreCompileInputs.cache
+M:\UDEMY\C#\Constantes\Constantes\obj\Debug\Constantes.exe
+M:\UDEMY\C#\Constantes\Constantes\obj\Debug\Constantes.pdb

@@ -1,0 +1,8 @@
+M:\CURSOS\C#\MetodosConRetorno\MetodosConRetorno\bin\Debug\MetodosConRetorno.exe.config
+M:\CURSOS\C#\MetodosConRetorno\MetodosConRetorno\bin\Debug\MetodosConRetorno.exe
+M:\CURSOS\C#\MetodosConRetorno\MetodosConRetorno\bin\Debug\MetodosConRetorno.pdb
+M:\CURSOS\C#\MetodosConRetorno\MetodosConRetorno\obj\Debug\MetodosConRetorno.csproj.AssemblyReference.cache
+M:\CURSOS\C#\MetodosConRetorno\MetodosConRetorno\obj\Debug\MetodosConRetorno.csproj.CoreCompileInputs.cache
+M:\CURSOS\C#\MetodosConRetorno\MetodosConRetorno\obj\Debug\MetodosConRetorno.exe
+M:\CURSOS\C#\MetodosConRetorno\MetodosConRetorno\obj\Debug\MetodosConRetorno.pdb
+M:\CURSOS\C#\MetodosConRetorno\MetodosConRetorno\obj\Debug\MetodosConRetorno.exe.config

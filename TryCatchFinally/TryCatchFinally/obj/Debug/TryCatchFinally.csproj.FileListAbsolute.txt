@@ -1,0 +1,7 @@
+A:\CURSOS\C#\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+A:\CURSOS\C#\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+A:\CURSOS\C#\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+A:\CURSOS\C#\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.AssemblyReference.cache
+A:\CURSOS\C#\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+A:\CURSOS\C#\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.pdb

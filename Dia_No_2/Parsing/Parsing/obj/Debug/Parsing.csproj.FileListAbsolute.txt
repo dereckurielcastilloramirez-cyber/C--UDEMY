@@ -1,0 +1,8 @@
+M:\UDEMY\C#\Parsing\Parsing\bin\Debug\Parsing.exe.config
+M:\UDEMY\C#\Parsing\Parsing\bin\Debug\Parsing.exe
+M:\UDEMY\C#\Parsing\Parsing\bin\Debug\Parsing.pdb
+M:\UDEMY\C#\Parsing\Parsing\obj\Debug\Parsing.csproj.AssemblyReference.cache
+M:\UDEMY\C#\Parsing\Parsing\obj\Debug\Parsing.csproj.CoreCompileInputs.cache
+M:\UDEMY\C#\Parsing\Parsing\obj\Debug\Parsing.exe
+M:\UDEMY\C#\Parsing\Parsing\obj\Debug\Parsing.pdb
+M:\UDEMY\C#\Parsing\Parsing\obj\Debug\Parsing.exe.config

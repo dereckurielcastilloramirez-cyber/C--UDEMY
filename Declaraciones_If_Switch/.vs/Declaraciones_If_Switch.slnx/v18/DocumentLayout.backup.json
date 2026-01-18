@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\CURSOS\\C#\\Declaraciones_If_Switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B80A3038-7003-4F8E-A59A-5640498D73ED}|Declaraciones_If_Switch\\Declaraciones_If_Switch.csproj|a:\\cursos\\c#\\declaraciones_if_switch\\declaraciones_if_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80A3038-7003-4F8E-A59A-5640498D73ED}|Declaraciones_If_Switch\\Declaraciones_If_Switch.csproj|solutionrelative:declaraciones_if_switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\CURSOS\\C#\\Declaraciones_If_Switch\\Declaraciones_If_Switch\\Program.cs",
+              "RelativeDocumentMoniker": "Declaraciones_If_Switch\\Program.cs",
+              "ToolTip": "A:\\CURSOS\\C#\\Declaraciones_If_Switch\\Declaraciones_If_Switch\\Program.cs",
+              "RelativeToolTip": "Declaraciones_If_Switch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T01:16:50.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

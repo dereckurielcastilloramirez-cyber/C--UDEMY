@@ -1,0 +1,7 @@
+A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\bin\Debug\Declaraciones_If_Switch.exe.config
+A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\bin\Debug\Declaraciones_If_Switch.exe
+A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\bin\Debug\Declaraciones_If_Switch.pdb
+A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraciones_If_Switch.csproj.AssemblyReference.cache
+A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraciones_If_Switch.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraciones_If_Switch.exe
+A:\CURSOS\C#\Declaraciones_If_Switch\Declaraciones_If_Switch\obj\Debug\Declaraciones_If_Switch.pdb

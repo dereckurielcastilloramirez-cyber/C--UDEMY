@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\UDEMY\\C#\\HolaMundo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B214D1FD-A599-4208-9DB2-A817ECE4315F}|HolaMundo\\HolaMundo.csproj|m:\\udemy\\c#\\holamundo\\holamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B214D1FD-A599-4208-9DB2-A817ECE4315F}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "M:\\UDEMY\\C#\\HolaMundo\\HolaMundo\\Program.cs",
+              "RelativeDocumentMoniker": "HolaMundo\\Program.cs",
+              "ToolTip": "M:\\UDEMY\\C#\\HolaMundo\\HolaMundo\\Program.cs",
+              "RelativeToolTip": "HolaMundo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T22:45:20.469Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
