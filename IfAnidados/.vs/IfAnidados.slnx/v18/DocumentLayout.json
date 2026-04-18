@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\IfAnidados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991F0C67-9F49-4F30-BCFF-B1A6D0FCFE42}|IfAnidados\\IfAnidados.csproj|a:\\cursos\\c#-udemy\\c#-udemy\\ifanidados\\ifanidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991F0C67-9F49-4F30-BCFF-B1A6D0FCFE42}|IfAnidados\\IfAnidados.csproj|solutionrelative:ifanidados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\IfAnidados\\IfAnidados\\Program.cs",
+              "RelativeDocumentMoniker": "IfAnidados\\Program.cs",
+              "ToolTip": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\IfAnidados\\IfAnidados\\Program.cs",
+              "RelativeToolTip": "IfAnidados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:42:59.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

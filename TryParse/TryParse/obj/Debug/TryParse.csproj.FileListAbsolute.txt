@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\TryParse\TryParse\bin\Debug\TryParse.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\TryParse\TryParse\bin\Debug\TryParse.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\TryParse\TryParse\bin\Debug\TryParse.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\TryParse\TryParse\obj\Debug\TryParse.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\TryParse\TryParse\obj\Debug\TryParse.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\TryParse\TryParse\obj\Debug\TryParse.pdb

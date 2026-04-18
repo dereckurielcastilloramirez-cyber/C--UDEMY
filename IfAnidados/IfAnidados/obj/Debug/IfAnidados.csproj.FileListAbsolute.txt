@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfAnidados\IfAnidados\bin\Debug\IfAnidados.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfAnidados\IfAnidados\bin\Debug\IfAnidados.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfAnidados\IfAnidados\bin\Debug\IfAnidados.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfAnidados\IfAnidados\obj\Debug\IfAnidados.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfAnidados\IfAnidados\obj\Debug\IfAnidados.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfAnidados\IfAnidados\obj\Debug\IfAnidados.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfAnidados\IfAnidados\obj\Debug\IfAnidados.pdb

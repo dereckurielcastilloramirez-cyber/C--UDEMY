@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfTryParse\IfTryParse\obj\Debug\IfTryParse.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfTryParse\IfTryParse\obj\Debug\IfTryParse.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfTryParse\IfTryParse\bin\Debug\IfTryParse.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfTryParse\IfTryParse\bin\Debug\IfTryParse.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfTryParse\IfTryParse\bin\Debug\IfTryParse.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfTryParse\IfTryParse\obj\Debug\IfTryParse.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\IfTryParse\IfTryParse\obj\Debug\IfTryParse.pdb

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\IfTryParse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A51BEC-38E6-4E8A-9D8A-DD4C56484834}|IfTryParse\\IfTryParse.csproj|a:\\cursos\\c#-udemy\\c#-udemy\\iftryparse\\iftryparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A51BEC-38E6-4E8A-9D8A-DD4C56484834}|IfTryParse\\IfTryParse.csproj|solutionrelative:iftryparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\IfTryParse\\IfTryParse\\Program.cs",
+              "RelativeDocumentMoniker": "IfTryParse\\Program.cs",
+              "ToolTip": "A:\\CURSOS\\C#-UDEMY\\C#-UDEMY\\IfTryParse\\IfTryParse\\Program.cs",
+              "RelativeToolTip": "IfTryParse\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T02:12:52.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

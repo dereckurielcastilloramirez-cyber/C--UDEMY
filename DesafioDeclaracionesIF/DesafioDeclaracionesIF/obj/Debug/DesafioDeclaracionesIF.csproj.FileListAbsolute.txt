@@ -1,0 +1,7 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\DesafioDeclaracionesIF\DesafioDeclaracionesIF\bin\Debug\DesafioDeclaracionesIF.exe.config
+A:\CURSOS\C#-UDEMY\C#-UDEMY\DesafioDeclaracionesIF\DesafioDeclaracionesIF\bin\Debug\DesafioDeclaracionesIF.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\DesafioDeclaracionesIF\DesafioDeclaracionesIF\bin\Debug\DesafioDeclaracionesIF.pdb
+A:\CURSOS\C#-UDEMY\C#-UDEMY\DesafioDeclaracionesIF\DesafioDeclaracionesIF\obj\Debug\DesafioDeclaracionesIF.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\DesafioDeclaracionesIF\DesafioDeclaracionesIF\obj\Debug\DesafioDeclaracionesIF.csproj.CoreCompileInputs.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\DesafioDeclaracionesIF\DesafioDeclaracionesIF\obj\Debug\DesafioDeclaracionesIF.exe
+A:\CURSOS\C#-UDEMY\C#-UDEMY\DesafioDeclaracionesIF\DesafioDeclaracionesIF\obj\Debug\DesafioDeclaracionesIF.pdb

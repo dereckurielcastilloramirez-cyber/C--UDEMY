@@ -1,0 +1,2 @@
+A:\CURSOS\C#-UDEMY\C#-UDEMY\TryParseIf}\TryParseIf}\obj\Debug\TryParseIf}.csproj.AssemblyReference.cache
+A:\CURSOS\C#-UDEMY\C#-UDEMY\TryParseIf}\TryParseIf}\obj\Debug\TryParseIf}.csproj.CoreCompileInputs.cache
